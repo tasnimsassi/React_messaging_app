@@ -1,4 +1,3 @@
-
 # Messaging App
 
 An advanced messaging application that allows users to communicate in real-time through text and images. The app is compatible with both mobile and web platforms.
